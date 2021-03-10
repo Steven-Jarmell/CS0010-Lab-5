@@ -4,9 +4,6 @@
 
 The program takes in a name and an integer and greets the user that many times.
 
-<<<<<<< HEAD
-
-=======
 ## How to install and run this program
 
 1. Open Jupyter Lab and start a terminal
@@ -26,7 +23,6 @@ The program takes in a name and an integer and greets the user that many times.
 5. Submit a Pull request so that we can review your changes
 
 Thank You!!!!
->>>>>>> 91da34f7b611be85274747f1d28a874bde43623e
 
 ## Code of Conduct
 
