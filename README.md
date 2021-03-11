@@ -35,3 +35,12 @@ It also includes clear guidelines for reporting violations of the CoC
 and how enforcement of the CoC will be taken care of. Finally, it also 
 has access to translations into other languages, making it that much
 more inclusive.
+
+## License
+
+We chose to use the Apache License for our project. We chose this
+license because it is a well known, well revised license featured
+by the Open Source Initiative (OSI) and one we discussed in lab. 
+We also believe that this license
+will allow for people to easily contribute or edit our code, which 
+is something that we want. 
