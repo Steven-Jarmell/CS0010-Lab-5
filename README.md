@@ -35,3 +35,7 @@ It also includes clear guidelines for reporting violations of the CoC
 and how enforcement of the CoC will be taken care of. Finally, it also 
 has access to translations into other languages, making it that much
 more inclusive.
+
+## Suggestions
+
+If you do not want to contribute to the code but would instead like to leave a suggestion, please feel free to leave a [comment in the issues tab](https://github.com/Steven-Jarmell/CS0010-Lab-5-6/issues) or email one of the community leaders. We are always open to new ideas!
