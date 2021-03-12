@@ -36,6 +36,17 @@ and how enforcement of the CoC will be taken care of. Finally, it also
 has access to translations into other languages, making it that much
 more inclusive.
 
+=======
+## License
+
+We chose to use the Apache License for our project. We chose this
+license because it is a well known, well revised license featured
+by the Open Source Initiative (OSI) and one we discussed in lab. 
+We also believe that this license
+will allow for people to easily contribute or edit our code, which 
+is something that we want. 
+
 ## Suggestions
 
 If you do not want to contribute to the code but would instead like to leave a suggestion, please feel free to leave a [comment in the issues tab](https://github.com/Steven-Jarmell/CS0010-Lab-5-6/issues) or email one of the community leaders. We are always open to new ideas!
+
